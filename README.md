@@ -13,8 +13,8 @@ Included for easy reference, or in case you already have Python ACT-R.
 If you don't have Python ACT-R download it from either:
 https://github.com/MatthewAKelly/ccmsuite if you want a version that includes hdm.py
 or
-https://github.com/CarletonCognitiveModelingLab/ccmsuite
-which is the official repository for Python ACT-R.
+https://github.com/tcstewar/ccmsuite
+which is the master repository for Python ACT-R.
 *******************************************************************************
 
 HDM_resonance_sim.py
