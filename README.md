@@ -8,6 +8,7 @@ Files:
 hdm.py 
 *******************************************************************************
 Holographic Declarative Memory (HDM) implementation.
+A memory module for Python ACT-R.
 Written by Matthew A. Kelly matthew.kelly2@carleton.ca
 Included for easy reference, or in case you already have Python ACT-R. 
 If you don't have Python ACT-R download it from either:
@@ -15,6 +16,8 @@ https://github.com/MatthewAKelly/ccmsuite if you want a version that includes hd
 or
 https://github.com/tcstewar/ccmsuite
 which is the master repository for Python ACT-R.
+HDM requires numpy installed in order to do vector algebra.
+To use HDM on the fan effect task, run HDM_resonance_sim.py
 *******************************************************************************
 
 HDM_resonance_sim.py
